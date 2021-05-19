@@ -1,1 +1,7 @@
-console.log('qqq35');
+console.log('qqq');
+
+function any () {
+  console.log('any');
+}
+
+any();
