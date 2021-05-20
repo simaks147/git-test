@@ -1,1 +1,3 @@
-console.log('qqq3');
+console.log('qqq');
+
+alert('ert');
